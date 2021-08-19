@@ -1,8 +1,8 @@
 {
-  "name": "ddd",
+  "name": "goit-react-hw-03-image-finder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "https://sergey-25.github.io/goit-react-hw-03-image-finder/",
   "dependencies": {
     "@emotion/react": "^11.4.0",
     "@emotion/styled": "^11.3.0",
@@ -20,6 +20,8 @@
     "react": "^17.0.2",
     "react-bootstrap": "^2.0.0-beta.4",
     "react-dom": "^17.0.2",
+    "react-hot-toast": "^2.1.0",
+    "react-loader-spinner": "^4.0.0",
     "react-scripts": "4.0.3",
     "react-toastify": "^7.0.4",
     "reactstrap": "^8.9.0",
